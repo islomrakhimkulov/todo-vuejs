@@ -1,0 +1,31 @@
+{
+    "name": "todo-list",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.36",
+        "@fortawesome/free-solid-svg-icons": "^5.15.4",
+        "@fortawesome/vue-fontawesome": "^3.0.0-4",
+        "animate.css": "^4.1.1",
+        "bootstrap-vue": "^2.21.2",
+        "core-js": "^3.6.5",
+        "vue": "^3.2.19",
+        "vue-loader-v16": "npm:vue-loader@^16.0.0-alpha.3",
+        "vue-property-decorator": "^9.0.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-plugin-eslint": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "@vue/compiler-sfc": "^3.0.0",
+        "babel-eslint": "^10.1.0",
+        "bootstrap": "^4.6.0",
+        "eslint": "^6.7.2",
+        "eslint-plugin-vue": "^7.0.0"
+    }
+}
